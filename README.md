@@ -1,3 +1,8 @@
+Template idea taken from
+https://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/
+
+Rewritten in react for easier templating and maintance 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
