@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #767cab;
+  color: #0E2F44;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -79,7 +79,7 @@ p {
   color: #fff;
 }
 .sidebar-wrapper a {
-  color: #fff;
+  color: #42A8C0;
 }
 .sidebar-wrapper .profile-container {
   padding: 30px;

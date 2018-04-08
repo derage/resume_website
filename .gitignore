@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 build
 .DS_Store
-
+.aws_creds
 # Runtime data
 pids
 *.pid
